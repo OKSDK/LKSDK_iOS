@@ -1,2 +1,2 @@
 # LKSDK_iOS
-蓝港自主SDK iOS版
+蓝港官方SDK iOS版
